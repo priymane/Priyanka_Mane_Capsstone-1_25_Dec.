@@ -1,0 +1,26 @@
+nav .or_link {
+    color: black;
+  }
+  nav .or_link:hover {
+    color: pink !important;
+  }
+  nav .basket {
+    background-color: pink;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+  }
+  nav .basket i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+  }
+  nav .basket:hover {
+    background-color: white;
+  }
+  nav .basket:hover i {
+    color:pink;
+  }/*# sourceMappingURL=Nav.css.map */
